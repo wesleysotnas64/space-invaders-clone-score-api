@@ -1,0 +1,6 @@
+@space_invaders_clone_score_api_HostAddress = http://localhost:5141
+
+GET {{space_invaders_clone_score_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
